@@ -40,9 +40,10 @@ body{
 }
 
 header{
-    height: 150px;
+    /*height: 150px;*/
     text-decoration: none;
     color: white;
+    padding: 1rem 0;
 }
 
 .orange-bg{
@@ -50,11 +51,12 @@ header{
 }
 
 .lateral-col{
-    width: 15%;
+    width: 20%;
 }
 
 .central-col{
-    width: 70%;
+    width: 80%;
+    text-align: center;
 }
 
 header ul{
@@ -63,5 +65,9 @@ header ul{
 
 .bool-logo{
     width: 120px;
+}
+
+nav li{
+    padding-right: 1.2rem;
 }
 

@@ -49,6 +49,14 @@ header{
     background-color: #FF6900;
 }
 
+.lateral-col{
+    width: 15%;
+}
+
+.central-col{
+    width: 70%;
+}
+
 header ul{
     list-style-type: none;
 }

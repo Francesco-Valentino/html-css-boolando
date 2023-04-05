@@ -18,5 +18,23 @@
     margin: 0 auto;
 }
 
+.pos-relative{
+    position: relative;
+}
 
+.pos-absolute{
+    position: absolute;
+}
+
+.pos-fixed{
+    position: fixed;
+}
+
+header{
+    height: 150px;
+}
+
+.orange-bg{
+    background-color: #FF6900;
+}
 

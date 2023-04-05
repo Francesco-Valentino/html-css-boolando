@@ -108,4 +108,23 @@ main img{
     text-decoration: line-through;
 }
 
+footer{
+    height: 200px;
+    margin-top: 4rem;
+}
 
+.dark-grey-bg{
+    background-color: #1a1a1a;
+}
+
+.footer-main-col{
+    width: 85%;
+    background-color: aqua;
+    height: 5rem;
+}
+
+.footer-secondary-col{
+    width: 15%;
+    background-color: blueviolet;
+    height: 5rem;
+}

@@ -109,8 +109,12 @@ main img{
 }
 
 footer{
-    height: 200px;
+    /*height: 200px;*/
     margin-top: 4rem;
+    color: white;
+    font-size: .9rem;
+    line-height: 1.6rem;
+    padding: 1.3rem 0;
 }
 
 .dark-grey-bg{
@@ -119,12 +123,28 @@ footer{
 
 .footer-main-col{
     width: 85%;
-    background-color: aqua;
-    height: 5rem;
+    /*background-color: aqua;*/
+    /*height: 5rem;*/
 }
 
 .footer-secondary-col{
     width: 15%;
-    background-color: blueviolet;
-    height: 5rem;
+    /*background-color: blueviolet;*/
+    /*height: 5rem;*/
+    font-size: .7rem;
+    font-weight: 900;
+}
+
+footer img{
+    width: 25px;
+}
+
+footer ul{
+    font-size: .7rem;
+    font-weight: 200;
+}
+
+footer li{
+    padding-right: 1.5rem;
+    list-style-type: none;
 }

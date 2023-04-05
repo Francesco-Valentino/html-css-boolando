@@ -68,6 +68,28 @@ header ul{
 }
 
 nav li{
-    padding-right: 1.2rem;
+    padding-right: 1rem;
+}
+
+.wrapper{
+    width: 31%;
+}
+
+.row{
+    margin-top: 3rem;
+}
+
+.box{
+    /*height: 700px;*/
+    /*background-color: magenta;*/
+}
+
+main img{
+    width: 100%;
+}
+
+.text{
+    height: 50px;
+    /*background-color: goldenrod;*/
 }
 

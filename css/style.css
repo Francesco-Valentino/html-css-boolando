@@ -85,7 +85,7 @@ main img{
 }
 
 .text{
-    height: 50px;
+    /*height: 50px;*/
     font-size: .9rem;
     /*background-color: goldenrod;*/
 }
@@ -147,4 +147,41 @@ footer ul{
 footer li{
     padding-right: 1.5rem;
     list-style-type: none;
+}
+
+#img-1:hover{
+    content: url(../img/1b.webp);
+}
+
+#img-2:hover{
+    content: url(../img/2b.webp);
+}
+
+#img-3:hover{
+    content: url(../img/3b.webp);
+}
+
+#img-4:hover{
+    content: url(../img/4b.webp);
+}
+
+#img-5:hover{
+    content: url(../img/5b.webp);
+}
+
+#img-6:hover{
+    content: url(../img/6b.webp);
+}
+
+.mini-box{
+    color: white;
+    font-size: .8rem;
+}
+
+.mini-box-green{
+    background-color: green;
+}
+
+.mini-box-red{
+    background-color: red;
 }

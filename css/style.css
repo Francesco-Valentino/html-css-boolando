@@ -175,13 +175,36 @@ footer li{
 
 .mini-box{
     color: white;
-    font-size: .8rem;
+    font-size: .9rem;
+    padding: .3rem .5rem;
+    margin-right: 5px;
 }
 
-.mini-box-green{
+.green-box{
     background-color: green;
+    top: 400px;
+    left: 55px;
 }
 
-.mini-box-red{
+.red-box{
     background-color: red;
+    top: 400px;
+}
+
+.white-box{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    top: 20px;
+    right: 0;
+    display: flex;
+    font-size: 2rem;
+    line-height: 1.2rem;
+    margin: 0 auto;
+    padding-left: 6px;
+    padding-top: 4px;
+}
+
+.white-box:hover{
+    color: red;
 }

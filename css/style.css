@@ -32,6 +32,7 @@
 
 .pos-fixed{
     position: fixed;
+    top: 0;
 }
 
 body{
@@ -44,6 +45,8 @@ header{
     text-decoration: none;
     color: white;
     padding: 1rem 0;
+    width: 100%;
+    z-index: 2;
 }
 
 .orange-bg{
@@ -78,6 +81,10 @@ nav li{
 .row{
     margin-top: 3rem;
     justify-content: space-between;
+}
+
+.container.row.flex{
+    padding-top: 70px;
 }
 
 main img{
